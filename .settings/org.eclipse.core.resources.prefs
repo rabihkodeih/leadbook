@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
 encoding//leadbook/items.py=utf-8
 encoding//leadbook/middlewares.py=utf-8
+encoding//leadbook/pipelines.py=utf-8
 encoding//leadbook/settings.py=utf-8
+encoding//leadbook/spiders/company_index.py=utf-8

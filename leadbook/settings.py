@@ -90,9 +90,10 @@ HTTPCACHE_ENABLED = False
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    # 'leadbook.pipelines.LeadbookPipeline': 300,
+    'leadbook.pipelines.ItemVerificationPipeline': 100,
+    'leadbook.pipelines.CrawlTimeAnnotatotionPipeline': 200
 }
-LOG_FORMATTER = 'camel_scrap.log_formatters.SilentDroppedItemLogFormatter'
+LOG_FORMATTER = 'leadbook.log_formatters.SilentDroppedItemLogFormatter'
 
 # Timeout and maximum concurrent requests performed by Scrapy (default: 16)
 DOWNLOAD_TIMEOUT = 180
