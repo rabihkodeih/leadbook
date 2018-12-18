@@ -5,6 +5,12 @@ import scrapy
 
 class CompanyIndexSpider(scrapy.Spider):
     name = 'campany_index'
+    custom_settings = {
+        'ITEM_PIPELINES': {
+            'leadbook.pipelines.CompanyIndexItemVerificationPipeline': 100,
+            'leadbook.pipelines.CrawlTimeAnnotatotionPipeline': 200
+        }
+    }
 
     def __init__(self, *args, **kwargs):
         self.root_url = 'https://www.idx.co.id/umbraco/Surface/ListedCompany/GetCompanyProfiles'

@@ -89,10 +89,9 @@ HTTPCACHE_ENABLED = False
 
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-    'leadbook.pipelines.ItemVerificationPipeline': 100,
-    'leadbook.pipelines.CrawlTimeAnnotatotionPipeline': 200
-}
+# ITEM_PIPELINES = {
+#     'leadbook.pipelines.CrawlTimeAnnotatotionPipeline': 900
+# }
 LOG_FORMATTER = 'leadbook.log_formatters.SilentDroppedItemLogFormatter'
 
 # Timeout and maximum concurrent requests performed by Scrapy (default: 16)
