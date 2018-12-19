@@ -61,6 +61,7 @@ migrations/
 # Eclipse Pydev stuff:
 .project
 .pydevproject
+.settings
 
 # Flask stuff:
 instance/
