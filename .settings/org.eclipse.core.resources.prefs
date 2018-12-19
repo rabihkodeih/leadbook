@@ -4,3 +4,5 @@ encoding//leadbook/middlewares.py=utf-8
 encoding//leadbook/pipelines.py=utf-8
 encoding//leadbook/settings.py=utf-8
 encoding//leadbook/spiders/company_index.py=utf-8
+encoding//leadbook/spiders/company_profiles.py=utf-8
+encoding//leadbook/utils.py=utf-8

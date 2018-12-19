@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 
-import re
-
 from datetime import datetime
-from scrapy.exceptions import DropItem
+from leadbook.utils import validate_fields
 
 
 class CompanyIndexItemVerificationPipeline(object):
@@ -17,12 +15,32 @@ class CompanyIndexItemVerificationPipeline(object):
         fields = [('ticker_symbol', '^[A-Z][A-Z][A-Z][A-Z]$'),
                   ('company_name', '^.+$'),
                   ('listing_date', '^\d\d\d\d-\d\d-\d\d$')]
-        for field, validator in fields:
-            if not re.match(validator, item[field]):
-                log_msg = "(DROPPED_ITEM_BAD_FIELD) Item dropped, invalid item field:\nitem:%s\nfield:%s\nvalue:%s"
-                log_msg = log_msg % (repr(item), field, item[field])
-                spider.logger.warn(log_msg)
-                raise DropItem()
+        validate_fields(item, fields, spider, check_null_values=True)
+        return item
+
+
+class CompanyProfilesItemVerificationPipeline(object):
+    '''
+    This pipeline verifies all fields of every parsed item. Verification
+    happens based on a given list of (field, regex-validator) tuple.
+    If verification fails, the item is dropped and an appropriate
+    log message is issued.
+    '''
+    def process_item(self, item, spider):
+        fields = [('company_name', '^.+$'),
+                  ('security_code', '^[A-Z][A-Z][A-Z][A-Z]$'),
+                  ('office_address', '^.+$'),
+                  ('email_address', '^.+$'),
+                  ('phone', '^.+$'),
+                  ('fax', '^.+$'),
+                  ('npwp', '^.+$'),
+                  ('company_website', '^.+$'),
+                  ('ipo_date', '^\d\d\d\d-\d\d-\d\d$'),
+                  ('board', '^.+$'),
+                  ('sector', '^.+$'),
+                  ('sub_sector', '^.+$'),
+                  ('registrar', '^.+$')]
+        validate_fields(item, fields, spider, check_null_values=True)
         return item
 
 

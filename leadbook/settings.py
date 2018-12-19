@@ -9,10 +9,11 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'leadbook'
 
+BOT_NAME = 'leadbook'
 SPIDER_MODULES = ['leadbook.spiders']
 NEWSPIDER_MODULE = 'leadbook.spiders'
+
 
 # Retries
 RETRY_ENABLED = True
@@ -24,8 +25,10 @@ RETRY_HTTP_CODES = [500, 502, 503, 504, 408]
 USER_AGENT = 'leadbook (+http://www.yourdomain.com)'
 # DUPEFILTER_CLASS
 
+
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
+
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://doc.scrapy.org/en/latest/topics/settings.html#download-delay
@@ -35,11 +38,14 @@ ROBOTSTXT_OBEY = False
 # CONCURRENT_REQUESTS = 16
 # CONCURRENT_REQUESTS_PER_DOMAIN = 8
 
+
 # Disable cookies (enabled by default)
 # COOKIES_ENABLED = False
 
+
 # Disable Telnet Console (enabled by default)
 # TELNETCONSOLE_ENABLED = False
+
 
 # Override the default request headers:
 # DEFAULT_REQUEST_HEADERS = {
@@ -47,11 +53,13 @@ ROBOTSTXT_OBEY = False
 #    'Accept-Language': 'en',
 # }
 
+
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 # SPIDER_MIDDLEWARES = {
 #     'leadbook.middlewares.LeadbookSpiderMiddleware': 543,
 # }
+
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
@@ -60,11 +68,13 @@ DOWNLOADER_MIDDLEWARES = {
     'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware': 810
 }
 
+
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
 # EXTENSIONS = {
 #     'scrapy.extensions.telnet.TelnetConsole': None,
 # }
+
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
@@ -79,6 +89,7 @@ AUTOTHROTTLE_TARGET_CONCURRENCY = 3.0
 # Enable showing throttling stats for every response received:
 AUTOTHROTTLE_DEBUG = False
 
+
 # Enable and configure HTTP caching (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html#httpcache-middleware-settings
 HTTPCACHE_ENABLED = False
@@ -87,6 +98,7 @@ HTTPCACHE_ENABLED = False
 # HTTPCACHE_IGNORE_HTTP_CODES = []
 # HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
+
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 # ITEM_PIPELINES = {
@@ -94,8 +106,9 @@ HTTPCACHE_ENABLED = False
 # }
 LOG_FORMATTER = 'leadbook.log_formatters.SilentDroppedItemLogFormatter'
 
+
 # Timeout and maximum concurrent requests performed by Scrapy (default: 16)
-DOWNLOAD_TIMEOUT = 180
+DOWNLOAD_TIMEOUT = 30
 DEPTH_PRIORITY = -100
 CONCURRENT_REQUESTS = 16
 

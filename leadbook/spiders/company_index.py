@@ -49,11 +49,11 @@ class CompanyIndexSpider(scrapy.Spider):
         for row in rows:
             self.yielded_items += 1
             self.logger.info('items yielded: %s of %s' % (self.yielded_items, self.total_items))
-            yield self.parse_single_item(row)
+            yield self.item_from_row(row)
 
-    def parse_single_item(self, row):
+    def item_from_row(self, row):
         '''
-        Parses and returns a single data item.
+        Extracts item from row json data.
         '''
         url_base = 'http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/'
         no_value = ''
