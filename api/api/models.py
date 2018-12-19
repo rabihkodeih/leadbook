@@ -4,7 +4,7 @@ from django.db import models
 class Company(models.Model):
     company_name = models.CharField(max_length=256)
     security_code = models.CharField(max_length=16, blank=True, null=True)
-    office_address = models.TextField(blank=True, bull=True)
+    office_address = models.TextField(blank=True, null=True)
     email_address = models.CharField(max_length=256, blank=True, null=True)
     country = models.CharField(max_length=256, blank=True, null=True)
     phone = models.CharField(max_length=256, blank=True, null=True)
@@ -17,6 +17,9 @@ class Company(models.Model):
     sub_sector = models.CharField(max_length=256, blank=True, null=True)
     registrar = models.CharField(max_length=256, blank=True, null=True)
 
+    class Meta:
+        verbose_name_plural = 'Companies'
+
     def __str__(self):
         return self.company_name
 
@@ -27,6 +30,9 @@ class Secretary(models.Model):
     phone = models.CharField(max_length=256, blank=True, null=True)
     company = models.ForeignKey(Company, related_name='corporate_secretary', on_delete=models.CASCADE)
 
+    class Meta:
+        verbose_name_plural = 'Secretaries'
+
     def __str__(self):
         return self.name
 
@@ -35,6 +41,9 @@ class Director(models.Model):
     name = models.CharField(max_length=256)
     position = models.CharField(max_length=256, blank=True, null=True)
     company = models.ForeignKey(Company, related_name='director', on_delete=models.CASCADE)
+
+    class Meta:
+        verbose_name_plural = 'Directors'
 
     def __str__(self):
         return self.name
@@ -46,6 +55,9 @@ class Subsidiary(models.Model):
     total_asset = models.FloatField(blank=True, null=True)
     percentage = models.FloatField(blank=True, null=True)
     company = models.ForeignKey(Company, related_name='subsidiary', on_delete=models.CASCADE)
+
+    class Meta:
+        verbose_name_plural = 'Subsidiaries'
 
     def __str__(self):
         return self.name
