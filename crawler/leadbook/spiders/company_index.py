@@ -22,7 +22,7 @@ class CompanyIndexSpider(scrapy.Spider):
     def start_requests(self):
         '''
         This is the starting point of the spider where all the starting urls
-        are read form input and crawled through.
+        are read from input and crawled through.
         '''
         start_url = '%s?start=0&length=%s' % (self.root_url, self.length)
         yield scrapy.Request(url=start_url, callback=self.process_main_response)

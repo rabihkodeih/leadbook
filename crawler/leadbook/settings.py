@@ -104,7 +104,7 @@ HTTPCACHE_ENABLED = False
 # ITEM_PIPELINES = {
 #     'leadbook.pipelines.CrawlTimeAnnotatotionPipeline': 900
 # }
-LOG_FORMATTER = 'leadbook.log_formatters.SilentDroppedItemLogFormatter'
+# LOG_FORMATTER = 'leadbook.log_formatters.SilentDroppedItemLogFormatter'
 
 
 # Timeout and maximum concurrent requests performed by Scrapy (default: 16)

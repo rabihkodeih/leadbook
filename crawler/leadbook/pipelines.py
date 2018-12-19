@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 from datetime import datetime
-from leadbook.utils import validate_fields
+from .utils import validate_fields
 
 
 class CompanyIndexItemVerificationPipeline(object):
@@ -15,7 +15,7 @@ class CompanyIndexItemVerificationPipeline(object):
         fields = [('ticker_symbol', '^[A-Z][A-Z][A-Z][A-Z]$'),
                   ('company_name', '^.+$'),
                   ('listing_date', '^\d\d\d\d-\d\d-\d\d$')]
-        validate_fields(item, fields, spider, check_null_values=True)
+        validate_fields(item, fields, spider.logger)
         return item
 
 
@@ -40,7 +40,7 @@ class CompanyProfilesItemVerificationPipeline(object):
                   ('sector', '^.+$'),
                   ('sub_sector', '^.+$'),
                   ('registrar', '^.+$')]
-        validate_fields(item, fields, spider, check_null_values=True)
+        validate_fields(item, fields, spider.logger)
         return item
 
 

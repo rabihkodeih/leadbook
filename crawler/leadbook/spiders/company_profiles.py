@@ -22,7 +22,7 @@ class CompanyProfilesSpider(scrapy.Spider):
     def start_requests(self):
         '''
         This is the starting point of the spider where all the starting urls
-        are read form input and crawled through.
+        are read from input and crawled through.
         '''
         if not self.input_file:
             raise Exception("Missing input_file argument")
