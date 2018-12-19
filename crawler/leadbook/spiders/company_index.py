@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import json
 import scrapy
+from leadbook.constants import DATA_NO_VALUE
 
 
 class CompanyIndexSpider(scrapy.Spider):
@@ -56,7 +57,7 @@ class CompanyIndexSpider(scrapy.Spider):
         Extracts item from row json data.
         '''
         url_base = 'http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/'
-        no_value = ''
+        no_value = DATA_NO_VALUE
         item = {
             "ticker_symbol": row.get('KodeEmiten', no_value),
             "company_name": row.get('NamaEmiten', no_value),

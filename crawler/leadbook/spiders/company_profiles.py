@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 import json
 import scrapy
+from leadbook.constants import DATA_NO_VALUE
 
 
 class CompanyProfilesSpider(scrapy.Spider):
@@ -43,7 +44,7 @@ class CompanyProfilesSpider(scrapy.Spider):
         row = json.loads(response.text)
         self.yielded_items += 1
         self.logger.info('items yielded: %s of %s' % (self.yielded_items, self.total_items))
-        no_value = ''
+        no_value = DATA_NO_VALUE
         profiles = row.get('Profiles', [{}])[0]
         item = {
             'company_name': profiles.get('NamaEmiten', no_value),

@@ -70,6 +70,146 @@
     "crawled_at": "2018-12-19"
   },
   {
+    "ticker_symbol": "KOIN",
+    "company_name": "Kokoh Inti Arebama Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KOIN",
+    "listing_date": "2008-04-09",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KONI",
+    "company_name": "Perdana Bangun Pusaka Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KONI",
+    "listing_date": "1995-08-22",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KOPI",
+    "company_name": "PT Mitra Energi Persada Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KOPI",
+    "listing_date": "2015-05-04",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KPAL",
+    "company_name": "PT Steadfast Marine Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KPAL",
+    "listing_date": "2018-06-08",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KPAS",
+    "company_name": "PT Cottonindo Ariesta Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KPAS",
+    "listing_date": "2018-10-05",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KPIG",
+    "company_name": "MNC Land Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KPIG",
+    "listing_date": "2000-03-30",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KRAH",
+    "company_name": "PT Grand Kartech Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KRAH",
+    "listing_date": "2013-11-08",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KRAS",
+    "company_name": "Krakatau Steel (Persero) Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KRAS",
+    "listing_date": "2010-11-10",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KREN",
+    "company_name": "PT Kresna Graha Investama Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KREN",
+    "listing_date": "2002-06-28",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "LAND",
+    "company_name": "PT Trimitra Propertindo Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=LAND",
+    "listing_date": "2018-08-23",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KDSI",
+    "company_name": "Kedawung Setia Industrial Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KDSI",
+    "listing_date": "1996-07-29",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KIAS",
+    "company_name": "Keramika Indonesia Assosiasi Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KIAS",
+    "listing_date": "1994-12-08",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KICI",
+    "company_name": "Kedaung Indah Can Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KICI",
+    "listing_date": "1993-10-28",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KIJA",
+    "company_name": "Kawasan Industri Jababeka Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KIJA",
+    "listing_date": "1995-01-10",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KINO",
+    "company_name": "PT Kino Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KINO",
+    "listing_date": "2015-12-11",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KIOS",
+    "company_name": "PT Kioson Komersial Indonesia Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KIOS",
+    "listing_date": "2017-10-05",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KKGI",
+    "company_name": "Resource Alam Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KKGI",
+    "listing_date": "1991-07-01",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KLBF",
+    "company_name": "Kalbe Farma Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KLBF",
+    "listing_date": "1991-07-30",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KMTR",
+    "company_name": "PT Kirana Megatara Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KMTR",
+    "listing_date": "2017-06-19",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "KOBX",
+    "company_name": "Kobexindo Tractors Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KOBX",
+    "listing_date": "2012-07-05",
+    "crawled_at": "2018-12-19"
+  },
+  {
     "ticker_symbol": "JSKY",
     "company_name": "PT Sky Energy Indonesia Tbk.",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JSKY",
@@ -137,76 +277,6 @@
     "company_name": "Kertas Basuki Rachmat Indonesia Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KBRI",
     "listing_date": "2008-07-11",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "ITTG",
-    "company_name": "Leo Investments Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ITTG",
-    "listing_date": "2001-11-26",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "JAWA",
-    "company_name": "Jaya Agra Wattie Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JAWA",
-    "listing_date": "2011-05-30",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "JECC",
-    "company_name": "Jembo Cable Company Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JECC",
-    "listing_date": "1992-11-18",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "JGLE",
-    "company_name": "PT Graha Andrasentra Propertindo Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JGLE",
-    "listing_date": "2016-06-29",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "JIHD",
-    "company_name": "Jakarta International Hotels & Development Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JIHD",
-    "listing_date": "1984-02-29",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "JKON",
-    "company_name": "Jaya Konstruksi Manggala Pratama Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JKON",
-    "listing_date": "2007-12-04",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "JKSW",
-    "company_name": "Jakarta Kyoei Steel Works Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JKSW",
-    "listing_date": "1997-08-06",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "JMAS",
-    "company_name": "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JMAS",
-    "listing_date": "2017-12-18",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "JPFA",
-    "company_name": "JAPFA Comfeed Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JPFA",
-    "listing_date": "1989-10-23",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "JRPT",
-    "company_name": "Jaya Real Property Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JRPT",
-    "listing_date": "1994-06-29",
     "crawled_at": "2018-12-19"
   },
   {
@@ -347,6 +417,76 @@
     "company_name": "Vale Indonesia Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=INCO",
     "listing_date": "1990-05-16",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "ITTG",
+    "company_name": "Leo Investments Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ITTG",
+    "listing_date": "2001-11-26",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "JAWA",
+    "company_name": "Jaya Agra Wattie Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JAWA",
+    "listing_date": "2011-05-30",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "JECC",
+    "company_name": "Jembo Cable Company Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JECC",
+    "listing_date": "1992-11-18",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "JGLE",
+    "company_name": "PT Graha Andrasentra Propertindo Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JGLE",
+    "listing_date": "2016-06-29",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "JIHD",
+    "company_name": "Jakarta International Hotels & Development Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JIHD",
+    "listing_date": "1984-02-29",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "JKON",
+    "company_name": "Jaya Konstruksi Manggala Pratama Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JKON",
+    "listing_date": "2007-12-04",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "JKSW",
+    "company_name": "Jakarta Kyoei Steel Works Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JKSW",
+    "listing_date": "1997-08-06",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "JMAS",
+    "company_name": "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JMAS",
+    "listing_date": "2017-12-18",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "JPFA",
+    "company_name": "JAPFA Comfeed Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JPFA",
+    "listing_date": "1989-10-23",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "JRPT",
+    "company_name": "Jaya Real Property Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=JRPT",
+    "listing_date": "1994-06-29",
     "crawled_at": "2018-12-19"
   },
   {
@@ -700,76 +840,6 @@
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "ESSA",
-    "company_name": "Surya Esa Perkasa Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ESSA",
-    "listing_date": "2012-02-01",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "ESTI",
-    "company_name": "Ever Shine Textile Industry Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ESTI",
-    "listing_date": "1992-10-13",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "ETWA",
-    "company_name": "Eterindo Wahanatama Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ETWA",
-    "listing_date": "1997-05-16",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "EXCL",
-    "company_name": "PT XL Axiata Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EXCL",
-    "listing_date": "2005-09-29",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "FAST",
-    "company_name": "Fast Food Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FAST",
-    "listing_date": "1993-05-11",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "FASW",
-    "company_name": "Fajar Surya Wisesa Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FASW",
-    "listing_date": "1994-12-01",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "FILM",
-    "company_name": "PT MD Pictures Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FILM",
-    "listing_date": "2018-08-07",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "FINN",
-    "company_name": "PT First Indo American Leasing Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FINN",
-    "listing_date": "2017-06-08",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "FIRE",
-    "company_name": "PT Alfa Energi Investama Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FIRE",
-    "listing_date": "2017-06-09",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "FISH",
-    "company_name": "FKS Multi Agro Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FISH",
-    "listing_date": "2002-01-18",
-    "crawled_at": "2018-12-19"
-  },
-  {
     "ticker_symbol": "GOOD",
     "company_name": "PT Garudafood Putra Putri Jaya Tbk.",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=GOOD",
@@ -840,73 +910,73 @@
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "ECII",
-    "company_name": "PT Electronic City Indonesia Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ECII",
-    "listing_date": "2013-07-03",
+    "ticker_symbol": "ESSA",
+    "company_name": "Surya Esa Perkasa Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ESSA",
+    "listing_date": "2012-02-01",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "EKAD",
-    "company_name": "Ekadharma International Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EKAD",
-    "listing_date": "1990-08-14",
+    "ticker_symbol": "ESTI",
+    "company_name": "Ever Shine Textile Industry Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ESTI",
+    "listing_date": "1992-10-13",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "ELSA",
-    "company_name": "Elnusa Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ELSA",
-    "listing_date": "2008-02-06",
+    "ticker_symbol": "ETWA",
+    "company_name": "Eterindo Wahanatama Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ETWA",
+    "listing_date": "1997-05-16",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "ELTY",
-    "company_name": "Bakrieland Development Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ELTY",
-    "listing_date": "1995-10-30",
+    "ticker_symbol": "EXCL",
+    "company_name": "PT XL Axiata Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EXCL",
+    "listing_date": "2005-09-29",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "EMDE",
-    "company_name": "Megapolitan Developments Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EMDE",
-    "listing_date": "2011-01-12",
+    "ticker_symbol": "FAST",
+    "company_name": "Fast Food Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FAST",
+    "listing_date": "1993-05-11",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "EMTK",
-    "company_name": "Elang Mahkota Teknologi Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EMTK",
-    "listing_date": "2010-01-12",
+    "ticker_symbol": "FASW",
+    "company_name": "Fajar Surya Wisesa Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FASW",
+    "listing_date": "1994-12-01",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "ENRG",
-    "company_name": "Energi Mega Persada Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ENRG",
-    "listing_date": "2004-06-07",
+    "ticker_symbol": "FILM",
+    "company_name": "PT MD Pictures Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FILM",
+    "listing_date": "2018-08-07",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "EPMT",
-    "company_name": "Enseval Putra Megatrading Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EPMT",
-    "listing_date": "1994-08-01",
+    "ticker_symbol": "FINN",
+    "company_name": "PT First Indo American Leasing Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FINN",
+    "listing_date": "2017-06-08",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "ERAA",
-    "company_name": "Erajaya Swasembada Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ERAA",
-    "listing_date": "2011-12-14",
+    "ticker_symbol": "FIRE",
+    "company_name": "PT Alfa Energi Investama Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FIRE",
+    "listing_date": "2017-06-09",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "ERTX",
-    "company_name": "Eratex Djaja Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ERTX",
-    "listing_date": "1990-08-21",
+    "ticker_symbol": "FISH",
+    "company_name": "FKS Multi Agro Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=FISH",
+    "listing_date": "2002-01-18",
     "crawled_at": "2018-12-19"
   },
   {
@@ -980,6 +1050,76 @@
     "crawled_at": "2018-12-19"
   },
   {
+    "ticker_symbol": "ECII",
+    "company_name": "PT Electronic City Indonesia Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ECII",
+    "listing_date": "2013-07-03",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "EKAD",
+    "company_name": "Ekadharma International Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EKAD",
+    "listing_date": "1990-08-14",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "ELSA",
+    "company_name": "Elnusa Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ELSA",
+    "listing_date": "2008-02-06",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "ELTY",
+    "company_name": "Bakrieland Development Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ELTY",
+    "listing_date": "1995-10-30",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "EMDE",
+    "company_name": "Megapolitan Developments Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EMDE",
+    "listing_date": "2011-01-12",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "EMTK",
+    "company_name": "Elang Mahkota Teknologi Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EMTK",
+    "listing_date": "2010-01-12",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "ENRG",
+    "company_name": "Energi Mega Persada Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ENRG",
+    "listing_date": "2004-06-07",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "EPMT",
+    "company_name": "Enseval Putra Megatrading Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=EPMT",
+    "listing_date": "1994-08-01",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "ERAA",
+    "company_name": "Erajaya Swasembada Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ERAA",
+    "listing_date": "2011-12-14",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "ERTX",
+    "company_name": "Eratex Djaja Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=ERTX",
+    "listing_date": "1990-08-21",
+    "crawled_at": "2018-12-19"
+  },
+  {
     "ticker_symbol": "DGIK",
     "company_name": "Nusa Konstruksi Enjiniring  Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DGIK",
@@ -1047,146 +1187,6 @@
     "company_name": "Delta Dunia Makmur Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DOID",
     "listing_date": "2001-06-15",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CSIS",
-    "company_name": "PT Cahayasakti Investindo Sukses Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CSIS",
-    "listing_date": "2017-05-10",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CTBN",
-    "company_name": "Citra Tubindo Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CTBN",
-    "listing_date": "1989-11-28",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CTRA",
-    "company_name": "Ciputra Development Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CTRA",
-    "listing_date": "1994-03-28",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CTTH",
-    "company_name": "Citatah Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CTTH",
-    "listing_date": "1996-07-03",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "DART",
-    "company_name": "Duta Anggada Realty Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DART",
-    "listing_date": "1990-05-08",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "DAYA",
-    "company_name": "PT Duta Intidaya Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DAYA",
-    "listing_date": "2016-06-28",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "DEAL",
-    "company_name": "PT Dewata Freightinternational Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DEAL",
-    "listing_date": "2018-11-09",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "DEFI",
-    "company_name": "Danasupra Erapacific Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DEFI",
-    "listing_date": "2001-07-06",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "DEWA",
-    "company_name": "Darma Henwa Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DEWA",
-    "listing_date": "2007-09-26",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "DFAM",
-    "company_name": "PT Dafam Property Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DFAM",
-    "listing_date": "2018-04-27",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CLEO",
-    "company_name": "PT Sariguna Primatirta Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CLEO",
-    "listing_date": "2017-05-05",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CLPI",
-    "company_name": "Colorpak Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CLPI",
-    "listing_date": "2001-11-30",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CMNP",
-    "company_name": "Citra Marga Nusaphala Persada Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CMNP",
-    "listing_date": "1995-01-10",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CMPP",
-    "company_name": "PT AirAsia Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CMPP",
-    "listing_date": "1994-12-08",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CNKO",
-    "company_name": "Exploitasi Energi Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CNKO",
-    "listing_date": "2001-11-20",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CNTX",
-    "company_name": "Centex Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CNTX",
-    "listing_date": "1979-05-22",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "COWL",
-    "company_name": "COWELL DEVELOPMENT Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=COWL",
-    "listing_date": "2007-12-19",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CPIN",
-    "company_name": "Charoen Pokphand Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CPIN",
-    "listing_date": "1991-03-18",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CPRO",
-    "company_name": "Central Proteina Prima Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CPRO",
-    "listing_date": "2006-11-28",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "CSAP",
-    "company_name": "Catur Sentosa Adiprana Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CSAP",
-    "listing_date": "2007-12-12",
     "crawled_at": "2018-12-19"
   },
   {
@@ -1806,76 +1806,6 @@
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "SMMA",
-    "company_name": "Sinar Mas Multiartha Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMMA",
-    "listing_date": "1995-07-05",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SMMT",
-    "company_name": "GOLDEN EAGLE ENERGY Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMMT",
-    "listing_date": "2007-12-01",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SMRA",
-    "company_name": "PT Summarecon Agung Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMRA",
-    "listing_date": "1990-05-07",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SMRU",
-    "company_name": "SMR Utama Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMRU",
-    "listing_date": "2011-10-10",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SMSM",
-    "company_name": "Selamat Sempurna Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMSM",
-    "listing_date": "1996-09-09",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SOCI",
-    "company_name": "PT Soechi Lines Tbk. ",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SOCI",
-    "listing_date": "2014-12-03",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SONA",
-    "company_name": "Sona Topas Tourism Industry Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SONA",
-    "listing_date": "1992-07-12",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SOSS",
-    "company_name": "PT Shield On Service Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SOSS",
-    "listing_date": "2018-11-06",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SOTS",
-    "company_name": "PT Satria Mega Kencana Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SOTS",
-    "listing_date": "2018-12-10",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SPMA",
-    "company_name": "Suparma Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SPMA",
-    "listing_date": "1994-11-16",
-    "crawled_at": "2018-12-19"
-  },
-  {
     "ticker_symbol": "SKBM",
     "company_name": "Sekar Bumi Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SKBM",
@@ -2016,76 +1946,6 @@
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "SAFE",
-    "company_name": "Steady Safe Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SAFE",
-    "listing_date": "1994-08-15",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SAME",
-    "company_name": "Sarana Meditama Metropolitan Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SAME",
-    "listing_date": "2013-01-11",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SAPX",
-    "company_name": "PT Satria Antaran Prima Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SAPX",
-    "listing_date": "2018-10-03",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SATU",
-    "company_name": "PT Kota Satu Properti Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SATU",
-    "listing_date": "2018-11-05",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SCBD",
-    "company_name": "Danayasa Arthatama Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SCBD",
-    "listing_date": "2099-12-31",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SCCO",
-    "company_name": "Supreme Cable Manufacturing Corporation Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SCCO",
-    "listing_date": "1982-07-20",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SCMA",
-    "company_name": "Surya Citra Media Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SCMA",
-    "listing_date": "2002-07-16",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SCPI",
-    "company_name": "Merck Sharp Dohme Pharma Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SCPI",
-    "listing_date": "1990-06-08",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SDMU",
-    "company_name": "Sidomulyo Selaras Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SDMU",
-    "listing_date": "2011-07-12",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "SDPC",
-    "company_name": "Millennium Pharmacon International Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SDPC",
-    "listing_date": "1990-05-07",
-    "crawled_at": "2018-12-19"
-  },
-  {
     "ticker_symbol": "RDTX",
     "company_name": "Roda Vivatex Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=RDTX",
@@ -2153,6 +2013,76 @@
     "company_name": "Radiant Utama Interinsco Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=RUIS",
     "listing_date": "2006-07-12",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SMMA",
+    "company_name": "Sinar Mas Multiartha Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMMA",
+    "listing_date": "1995-07-05",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SMMT",
+    "company_name": "GOLDEN EAGLE ENERGY Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMMT",
+    "listing_date": "2007-12-01",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SMRA",
+    "company_name": "PT Summarecon Agung Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMRA",
+    "listing_date": "1990-05-07",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SMRU",
+    "company_name": "SMR Utama Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMRU",
+    "listing_date": "2011-10-10",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SMSM",
+    "company_name": "Selamat Sempurna Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SMSM",
+    "listing_date": "1996-09-09",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SOCI",
+    "company_name": "PT Soechi Lines Tbk. ",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SOCI",
+    "listing_date": "2014-12-03",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SONA",
+    "company_name": "Sona Topas Tourism Industry Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SONA",
+    "listing_date": "1992-07-12",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SOSS",
+    "company_name": "PT Shield On Service Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SOSS",
+    "listing_date": "2018-11-06",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SOTS",
+    "company_name": "PT Satria Mega Kencana Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SOTS",
+    "listing_date": "2018-12-10",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SPMA",
+    "company_name": "Suparma Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SPMA",
+    "listing_date": "1994-11-16",
     "crawled_at": "2018-12-19"
   },
   {
@@ -2293,6 +2223,76 @@
     "company_name": "Petrosea Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=PTRO",
     "listing_date": "1990-05-21",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SAFE",
+    "company_name": "Steady Safe Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SAFE",
+    "listing_date": "1994-08-15",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SAME",
+    "company_name": "Sarana Meditama Metropolitan Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SAME",
+    "listing_date": "2013-01-11",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SAPX",
+    "company_name": "PT Satria Antaran Prima Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SAPX",
+    "listing_date": "2018-10-03",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SATU",
+    "company_name": "PT Kota Satu Properti Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SATU",
+    "listing_date": "2018-11-05",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SCBD",
+    "company_name": "Danayasa Arthatama Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SCBD",
+    "listing_date": "2099-12-31",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SCCO",
+    "company_name": "Supreme Cable Manufacturing Corporation Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SCCO",
+    "listing_date": "1982-07-20",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SCMA",
+    "company_name": "Surya Citra Media Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SCMA",
+    "listing_date": "2002-07-16",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SCPI",
+    "company_name": "Merck Sharp Dohme Pharma Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SCPI",
+    "listing_date": "1990-06-08",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SDMU",
+    "company_name": "Sidomulyo Selaras Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SDMU",
+    "listing_date": "2011-07-12",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "SDPC",
+    "company_name": "Millennium Pharmacon International Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=SDPC",
+    "listing_date": "1990-05-07",
     "crawled_at": "2018-12-19"
   },
   {
@@ -2646,76 +2646,6 @@
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MLPT",
-    "company_name": "PT Multipolar Technology Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MLPT",
-    "listing_date": "2013-07-08",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MMLP",
-    "company_name": "PT Mega Manunggal Property Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MMLP",
-    "listing_date": "2015-06-12",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MNCN",
-    "company_name": "Media Nusantara Citra Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MNCN",
-    "listing_date": "2007-06-22",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MOLI",
-    "company_name": "PT Madusari Murni Indah Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MOLI",
-    "listing_date": "2018-08-30",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MPMX",
-    "company_name": "PT Mitra Pinasthika Mustika Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MPMX",
-    "listing_date": "2013-05-29",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MPOW",
-    "company_name": "PT Megapower Makmur Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MPOW",
-    "listing_date": "2017-07-05",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MPPA",
-    "company_name": "Matahari Putra Prima Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MPPA",
-    "listing_date": "1992-12-21",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MPRO",
-    "company_name": "PT Propertindo Mulia Investama Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MPRO",
-    "listing_date": "2018-10-09",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MRAT",
-    "company_name": "Mustika Ratu Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MRAT",
-    "listing_date": "1995-07-27",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MREI",
-    "company_name": "Maskapai Reasuransi Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MREI",
-    "listing_date": "1989-09-04",
-    "crawled_at": "2018-12-19"
-  },
-  {
     "ticker_symbol": "MSIN",
     "company_name": "PT MNC Studios International Tbk.",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MSIN",
@@ -2786,73 +2716,73 @@
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MIDI",
-    "company_name": "Midi Utama Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MIDI",
-    "listing_date": "2010-11-30",
+    "ticker_symbol": "MLPT",
+    "company_name": "PT Multipolar Technology Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MLPT",
+    "listing_date": "2013-07-08",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MIKA",
-    "company_name": "PT Mitra Keluarga Karyasehat Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MIKA",
-    "listing_date": "2015-03-24",
+    "ticker_symbol": "MMLP",
+    "company_name": "PT Mega Manunggal Property Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MMLP",
+    "listing_date": "2015-06-12",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MINA",
-    "company_name": "PT Sanurhasta Mitra Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MINA",
-    "listing_date": "2017-04-28",
+    "ticker_symbol": "MNCN",
+    "company_name": "Media Nusantara Citra Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MNCN",
+    "listing_date": "2007-06-22",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MIRA",
-    "company_name": "Mitra International Resources Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MIRA",
-    "listing_date": "1997-01-30",
+    "ticker_symbol": "MOLI",
+    "company_name": "PT Madusari Murni Indah Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MOLI",
+    "listing_date": "2018-08-30",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MITI",
-    "company_name": "Mitra Investindo Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MITI",
-    "listing_date": "1997-07-16",
+    "ticker_symbol": "MPMX",
+    "company_name": "PT Mitra Pinasthika Mustika Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MPMX",
+    "listing_date": "2013-05-29",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MKNT",
-    "company_name": "PT Mitra Komunikasi Nusantara Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MKNT",
-    "listing_date": "2015-10-26",
+    "ticker_symbol": "MPOW",
+    "company_name": "PT Megapower Makmur Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MPOW",
+    "listing_date": "2017-07-05",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MKPI",
-    "company_name": "Metropolitan Kentjana Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MKPI",
-    "listing_date": "2009-07-10",
+    "ticker_symbol": "MPPA",
+    "company_name": "Matahari Putra Prima Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MPPA",
+    "listing_date": "1992-12-21",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MLBI",
-    "company_name": "Multi Bintang Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MLBI",
-    "listing_date": "1994-01-17",
+    "ticker_symbol": "MPRO",
+    "company_name": "PT Propertindo Mulia Investama Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MPRO",
+    "listing_date": "2018-10-09",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MLIA",
-    "company_name": "Mulia Industrindo Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MLIA",
-    "listing_date": "1994-01-17",
+    "ticker_symbol": "MRAT",
+    "company_name": "Mustika Ratu Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MRAT",
+    "listing_date": "1995-07-27",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "MLPL",
-    "company_name": "Multipolar Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MLPL",
-    "listing_date": "1989-11-06",
+    "ticker_symbol": "MREI",
+    "company_name": "Maskapai Reasuransi Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MREI",
+    "listing_date": "1989-09-04",
     "crawled_at": "2018-12-19"
   },
   {
@@ -2923,76 +2853,6 @@
     "company_name": "Multi Indocitra Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MICE",
     "listing_date": "2005-11-02",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MABA",
-    "company_name": "PT Marga Abhinaya Abadi Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MABA",
-    "listing_date": "2017-06-22",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MAGP",
-    "company_name": "Multi Agro Gemilang Plantation Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAGP",
-    "listing_date": "2013-01-16",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MAIN",
-    "company_name": "Malindo Feedmill Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAIN",
-    "listing_date": "2006-02-10",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MAMI",
-    "company_name": "Mas Murni Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAMI",
-    "listing_date": "1994-02-09",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MAPA",
-    "company_name": "PT MAP Aktif Adiperkasa Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAPA",
-    "listing_date": "2018-07-05",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MAPB",
-    "company_name": "PT MAP Boga Adiperkasa Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAPB",
-    "listing_date": "2017-06-21",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MAPI",
-    "company_name": "Mitra Adiperkasa Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAPI",
-    "listing_date": "2004-11-10",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MARI",
-    "company_name": "PT Mahaka Radio Integra Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MARI",
-    "listing_date": "2016-02-11",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MARK",
-    "company_name": "PT Mark Dynamics Indonesia Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MARK",
-    "listing_date": "2017-07-12",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "MASA",
-    "company_name": "Multistrada Arah Sarana Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MASA",
-    "listing_date": "2005-06-09",
     "crawled_at": "2018-12-19"
   },
   {
@@ -3136,6 +2996,76 @@
     "crawled_at": "2018-12-19"
   },
   {
+    "ticker_symbol": "MABA",
+    "company_name": "PT Marga Abhinaya Abadi Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MABA",
+    "listing_date": "2017-06-22",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "MAGP",
+    "company_name": "Multi Agro Gemilang Plantation Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAGP",
+    "listing_date": "2013-01-16",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "MAIN",
+    "company_name": "Malindo Feedmill Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAIN",
+    "listing_date": "2006-02-10",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "MAMI",
+    "company_name": "Mas Murni Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAMI",
+    "listing_date": "1994-02-09",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "MAPA",
+    "company_name": "PT MAP Aktif Adiperkasa Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAPA",
+    "listing_date": "2018-07-05",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "MAPB",
+    "company_name": "PT MAP Boga Adiperkasa Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAPB",
+    "listing_date": "2017-06-21",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "MAPI",
+    "company_name": "Mitra Adiperkasa Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MAPI",
+    "listing_date": "2004-11-10",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "MARI",
+    "company_name": "PT Mahaka Radio Integra Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MARI",
+    "listing_date": "2016-02-11",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "MARK",
+    "company_name": "PT Mark Dynamics Indonesia Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MARK",
+    "listing_date": "2017-07-12",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "MASA",
+    "company_name": "Multistrada Arah Sarana Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MASA",
+    "listing_date": "2005-06-09",
+    "crawled_at": "2018-12-19"
+  },
+  {
     "ticker_symbol": "LAPD",
     "company_name": "Leyand International Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=LAPD",
@@ -3206,143 +3136,213 @@
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KOIN",
-    "company_name": "Kokoh Inti Arebama Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KOIN",
-    "listing_date": "2008-04-09",
+    "ticker_symbol": "MIDI",
+    "company_name": "Midi Utama Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MIDI",
+    "listing_date": "2010-11-30",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KONI",
-    "company_name": "Perdana Bangun Pusaka Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KONI",
-    "listing_date": "1995-08-22",
+    "ticker_symbol": "MIKA",
+    "company_name": "PT Mitra Keluarga Karyasehat Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MIKA",
+    "listing_date": "2015-03-24",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KOPI",
-    "company_name": "PT Mitra Energi Persada Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KOPI",
-    "listing_date": "2015-05-04",
+    "ticker_symbol": "MINA",
+    "company_name": "PT Sanurhasta Mitra Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MINA",
+    "listing_date": "2017-04-28",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KPAL",
-    "company_name": "PT Steadfast Marine Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KPAL",
-    "listing_date": "2018-06-08",
+    "ticker_symbol": "MIRA",
+    "company_name": "Mitra International Resources Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MIRA",
+    "listing_date": "1997-01-30",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KPAS",
-    "company_name": "PT Cottonindo Ariesta Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KPAS",
-    "listing_date": "2018-10-05",
+    "ticker_symbol": "MITI",
+    "company_name": "Mitra Investindo Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MITI",
+    "listing_date": "1997-07-16",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KPIG",
-    "company_name": "MNC Land Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KPIG",
-    "listing_date": "2000-03-30",
+    "ticker_symbol": "MKNT",
+    "company_name": "PT Mitra Komunikasi Nusantara Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MKNT",
+    "listing_date": "2015-10-26",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KRAH",
-    "company_name": "PT Grand Kartech Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KRAH",
-    "listing_date": "2013-11-08",
+    "ticker_symbol": "MKPI",
+    "company_name": "Metropolitan Kentjana Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MKPI",
+    "listing_date": "2009-07-10",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KRAS",
-    "company_name": "Krakatau Steel (Persero) Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KRAS",
-    "listing_date": "2010-11-10",
+    "ticker_symbol": "MLBI",
+    "company_name": "Multi Bintang Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MLBI",
+    "listing_date": "1994-01-17",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KREN",
-    "company_name": "PT Kresna Graha Investama Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KREN",
-    "listing_date": "2002-06-28",
+    "ticker_symbol": "MLIA",
+    "company_name": "Mulia Industrindo Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MLIA",
+    "listing_date": "1994-01-17",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "LAND",
-    "company_name": "PT Trimitra Propertindo Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=LAND",
-    "listing_date": "2018-08-23",
+    "ticker_symbol": "MLPL",
+    "company_name": "Multipolar Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=MLPL",
+    "listing_date": "1989-11-06",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KDSI",
-    "company_name": "Kedawung Setia Industrial Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KDSI",
-    "listing_date": "1996-07-29",
+    "ticker_symbol": "CSIS",
+    "company_name": "PT Cahayasakti Investindo Sukses Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CSIS",
+    "listing_date": "2017-05-10",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KIAS",
-    "company_name": "Keramika Indonesia Assosiasi Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KIAS",
-    "listing_date": "1994-12-08",
+    "ticker_symbol": "CTBN",
+    "company_name": "Citra Tubindo Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CTBN",
+    "listing_date": "1989-11-28",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KICI",
-    "company_name": "Kedaung Indah Can Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KICI",
-    "listing_date": "1993-10-28",
+    "ticker_symbol": "CTRA",
+    "company_name": "Ciputra Development Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CTRA",
+    "listing_date": "1994-03-28",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KIJA",
-    "company_name": "Kawasan Industri Jababeka Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KIJA",
+    "ticker_symbol": "CTTH",
+    "company_name": "Citatah Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CTTH",
+    "listing_date": "1996-07-03",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "DART",
+    "company_name": "Duta Anggada Realty Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DART",
+    "listing_date": "1990-05-08",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "DAYA",
+    "company_name": "PT Duta Intidaya Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DAYA",
+    "listing_date": "2016-06-28",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "DEAL",
+    "company_name": "PT Dewata Freightinternational Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DEAL",
+    "listing_date": "2018-11-09",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "DEFI",
+    "company_name": "Danasupra Erapacific Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DEFI",
+    "listing_date": "2001-07-06",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "DEWA",
+    "company_name": "Darma Henwa Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DEWA",
+    "listing_date": "2007-09-26",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "DFAM",
+    "company_name": "PT Dafam Property Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=DFAM",
+    "listing_date": "2018-04-27",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "CLEO",
+    "company_name": "PT Sariguna Primatirta Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CLEO",
+    "listing_date": "2017-05-05",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "CLPI",
+    "company_name": "Colorpak Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CLPI",
+    "listing_date": "2001-11-30",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "CMNP",
+    "company_name": "Citra Marga Nusaphala Persada Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CMNP",
     "listing_date": "1995-01-10",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KINO",
-    "company_name": "PT Kino Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KINO",
-    "listing_date": "2015-12-11",
+    "ticker_symbol": "CMPP",
+    "company_name": "PT AirAsia Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CMPP",
+    "listing_date": "1994-12-08",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KIOS",
-    "company_name": "PT Kioson Komersial Indonesia Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KIOS",
-    "listing_date": "2017-10-05",
+    "ticker_symbol": "CNKO",
+    "company_name": "Exploitasi Energi Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CNKO",
+    "listing_date": "2001-11-20",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KKGI",
-    "company_name": "Resource Alam Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KKGI",
-    "listing_date": "1991-07-01",
+    "ticker_symbol": "CNTX",
+    "company_name": "Centex Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CNTX",
+    "listing_date": "1979-05-22",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KLBF",
-    "company_name": "Kalbe Farma Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KLBF",
-    "listing_date": "1991-07-30",
+    "ticker_symbol": "COWL",
+    "company_name": "COWELL DEVELOPMENT Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=COWL",
+    "listing_date": "2007-12-19",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KMTR",
-    "company_name": "PT Kirana Megatara Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KMTR",
-    "listing_date": "2017-06-19",
+    "ticker_symbol": "CPIN",
+    "company_name": "Charoen Pokphand Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CPIN",
+    "listing_date": "1991-03-18",
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "KOBX",
-    "company_name": "Kobexindo Tractors Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=KOBX",
-    "listing_date": "2012-07-05",
+    "ticker_symbol": "CPRO",
+    "company_name": "Central Proteina Prima Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CPRO",
+    "listing_date": "2006-11-28",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "CSAP",
+    "company_name": "Catur Sentosa Adiprana Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=CSAP",
+    "listing_date": "2007-12-12",
     "crawled_at": "2018-12-19"
   },
   {
@@ -3836,76 +3836,6 @@
     "crawled_at": "2018-12-19"
   },
   {
-    "ticker_symbol": "BBNP",
-    "company_name": "Bank Nusantara Parahyangan Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBNP",
-    "listing_date": "2001-01-10",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "BBRI",
-    "company_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBRI",
-    "listing_date": "2003-11-10",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "BBRM",
-    "company_name": "Pelayaran Nasional Bina Buana Raya Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBRM",
-    "listing_date": "2013-01-09",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "BBTN",
-    "company_name": "Bank Tabungan Negara (Persero) Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBTN",
-    "listing_date": "2009-12-17",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "BBYB",
-    "company_name": "PT Bank Yudha Bhakti Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBYB",
-    "listing_date": "2015-01-13",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "BCAP",
-    "company_name": "MNC Kapital Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BCAP",
-    "listing_date": "2001-06-08",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "BCIC",
-    "company_name": "PT Bank JTrust Indonesia Tbk. ",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BCIC",
-    "listing_date": "1997-06-25",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "BCIP",
-    "company_name": "Bumi Citra Permai Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BCIP",
-    "listing_date": "2009-12-11",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "BDMN",
-    "company_name": "Bank Danamon Indonesia Tbk",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BDMN",
-    "listing_date": "1989-12-06",
-    "crawled_at": "2018-12-19"
-  },
-  {
-    "ticker_symbol": "BEKS",
-    "company_name": "PT Bank Pembangunan Daerah Banten Tbk.",
-    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BEKS",
-    "listing_date": "2001-07-13",
-    "crawled_at": "2018-12-19"
-  },
-  {
     "ticker_symbol": "BALI",
     "company_name": "PT Bali Towerindo Sentra Tbk. ",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BALI",
@@ -4323,6 +4253,76 @@
     "company_name": "AKR Corporindo Tbk",
     "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=AKRA",
     "listing_date": "1994-10-03",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BBNP",
+    "company_name": "Bank Nusantara Parahyangan Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBNP",
+    "listing_date": "2001-01-10",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BBRI",
+    "company_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBRI",
+    "listing_date": "2003-11-10",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BBRM",
+    "company_name": "Pelayaran Nasional Bina Buana Raya Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBRM",
+    "listing_date": "2013-01-09",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BBTN",
+    "company_name": "Bank Tabungan Negara (Persero) Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBTN",
+    "listing_date": "2009-12-17",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BBYB",
+    "company_name": "PT Bank Yudha Bhakti Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BBYB",
+    "listing_date": "2015-01-13",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BCAP",
+    "company_name": "MNC Kapital Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BCAP",
+    "listing_date": "2001-06-08",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BCIC",
+    "company_name": "PT Bank JTrust Indonesia Tbk. ",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BCIC",
+    "listing_date": "1997-06-25",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BCIP",
+    "company_name": "Bumi Citra Permai Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BCIP",
+    "listing_date": "2009-12-11",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BDMN",
+    "company_name": "Bank Danamon Indonesia Tbk",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BDMN",
+    "listing_date": "1989-12-06",
+    "crawled_at": "2018-12-19"
+  },
+  {
+    "ticker_symbol": "BEKS",
+    "company_name": "PT Bank Pembangunan Daerah Banten Tbk.",
+    "url": "http://www.idx.co.id/en-us/listed-companies/company-profiles/company-profile-detail/?kodeEmiten=BEKS",
+    "listing_date": "2001-07-13",
     "crawled_at": "2018-12-19"
   }
 ]

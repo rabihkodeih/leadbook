@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+from leadbook.constants import DATA_NULL_VALUES
 
 
 def validate_fields(item, fields, logger, check_null_values=True):
@@ -8,7 +9,7 @@ def validate_fields(item, fields, logger, check_null_values=True):
     This function validates fields according to their regex validators
     and logs validation warning messages using the supplied logger.
     '''
-    null_values = ['nill', 'none', 'null', 'n/a']
+    null_values = DATA_NULL_VALUES
     for field, validator in fields:
         value = str(item[field])
         value_is_null = check_null_values and value.lower() in null_values
