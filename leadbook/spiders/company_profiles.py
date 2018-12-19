@@ -72,7 +72,7 @@ class CompanyProfilesSpider(scrapy.Spider):
                         'phone': secretary.get('Telepon', no_value)}
             item['corporate_secretary'].append(sec_item)
         # parse director data
-        directors = row.get('Direktur')
+        directors = row.get('Direktur', [])
         for director in directors:
             dir_item = {'name': director.get('Nama', no_value),
                         'position': director.get('Jabatan', no_value)}
