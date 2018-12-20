@@ -5,7 +5,7 @@ from leadbook.constants import DATA_NO_VALUE
 
 
 class CompanyProfilesSpider(scrapy.Spider):
-    name = 'campany_profiles'
+    name = 'company_profiles'
     custom_settings = {
         'ITEM_PIPELINES': {
             'leadbook.pipelines.CompanyProfilesItemVerificationPipeline': 100,

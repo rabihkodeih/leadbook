@@ -5,7 +5,7 @@ from leadbook.constants import DATA_NO_VALUE
 
 
 class CompanyIndexSpider(scrapy.Spider):
-    name = 'campany_index'
+    name = 'company_index'
     custom_settings = {
         'ITEM_PIPELINES': {
             'leadbook.pipelines.CompanyIndexItemVerificationPipeline': 100,
