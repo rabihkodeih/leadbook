@@ -257,7 +257,7 @@ _List all company profiles without pagination_
     
 _List all company profiles with pagination_
 
-```curl -i -X GET "https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies?page=3&length=10"```
+```curl -i -X GET "https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?page=3&length=10"```
     
 _Filter company profiles by name without pagination_
 
