@@ -1,19 +1,34 @@
 from django.urls import path
 from django.core.paginator import Paginator
+
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework.renderers import JSONRenderer
 from rest_framework.permissions import IsAuthenticatedOrReadOnly
 
-from common.decorators import handle_exceptions
 from common.utils import query_string, eval_try_catch
+from common.decorators import handle_exceptions
+
 from api.models import Company
 from api.serializers import CompanySerializer
 
 
 class CompanyListView(APIView):
     '''
-    View to list all companies or companies filtered by their name.
+    get:
+    Return a list of all companies or companies filtered by their name.
+
+    **@querystring_param _page_** : the page number of the data (_optional_)<br/>
+    **@querystring_param _length_** : number of records per page (_optional_)<br/>
+    **@querystring_param _company_name_** : name of company to filter (_optional_)<br/>
+    **@return**: JSON response<br/>
+
+    **@examples**:
+
+        /companies/
+        /companies/?page=2&length=20
+        /companies/?company_name=Asuransi%20Bina%20Dana%20Arta
+        /companies/?company_name=indonesia&page=1&length=10
     '''
     permission_classes = (IsAuthenticatedOrReadOnly,)
     renderer_classes = (JSONRenderer,)
@@ -44,7 +59,14 @@ class CompanyListView(APIView):
 
 class CompanyItemView(APIView):
     '''
-    View to get single company using its security code / ticker symbol.
+    get:
+    Return a list of all companies or companies filtered by their name.
+
+    **@return**: JSON response<br/>
+
+    **@examples**:
+
+        /company/AALI/
     '''
     permission_classes = (IsAuthenticatedOrReadOnly,)
     renderer_classes = (JSONRenderer,)

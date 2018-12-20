@@ -19,12 +19,15 @@ from django.conf.urls import url
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from django.utils.translation import ugettext_lazy as _
 
+from rest_framework.documentation import include_docs_urls
+
 from api import views as api_views
 
 
 urlpatterns = [
     path(r'admin/', admin.site.urls),
     url(r'', include((api_views.urls, 'api'), namespace='api')),
+    url(r'^docs/', include_docs_urls(title='Leadbook API'))
 ]
 
 # this allows gunicorn (or any external wsgi server) to server static files
