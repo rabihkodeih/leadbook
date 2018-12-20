@@ -204,7 +204,7 @@ The api serves data that were crawled in the first part. The api exposes a coupl
     /company/{ticker_symbol}/ [GET]
     
 A more detailed description can be found [**here**](https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/docs/).
-An already deployed version on AWS lambda clound where the following urls are available:
+An already deployed version on AWS lambda cloud is available with the following urls:
 
 **1. Admin** 
 
@@ -214,65 +214,74 @@ An already deployed version on AWS lambda clound where the following urls are av
 
 [api_docs](https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/docs/)
 
-**3. Endpoint 1
+**3. Endpoint 1**
 
 [companies](https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/)
 
-**4. Endpoint 2
+**4. Endpoint 2**
 
 [company](https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/company/AALI/)
 
 ## Questions
 
-###1. Which database engine you choose and why?
+### 1. Which database engine you choose and why?
 
-Mysql was chosen as the main db engine. Its fast, easy to install and maintain and has good community support. SQLite however was chosen for both testing and on the AWS lambda cloud for ease of installation. 
+Mysql was chosen as the main db engine. Its fast, easy to install and maintain, and has good community support. SQLite however was chosen for both testing and the AWS lambda cloud for ease of installation. 
 
-###2. Which web framework you choose and why?
+### 2. Web framework you choose and why?
 
-[Django](https://www.djangoproject.com/start/overview/) was used because you simply get a whole lot of functionality out of the box with a minimum of magic. We have been able to code and deploy the application from scratch within little more than a single work day. Tha being said, when it comes to performance, Django is known for having excellent optimization options using caching and load balancing middlewares.
+[Django](https://www.djangoproject.com/start/overview/) was used because you simply get a whole lot of functionality out of the box with a minimum of magic. We have been able to code and deploy the application from scratch within a single working day. That being said, when it comes to performance, Django is known for having excellent performance and optimization options using caching and load balancing.
 
-###3. Architecture
+### 3. Briefly describe the architecture of your application?
 
-The architecture of the app follows closely that of the standard Django app. In addition we've used [Django Rest Framework](https://www.django-rest-framework.org) to implement the actual endpoint views. An admin section has been added as well. The entity diagram for the database models is:
+The architecture of the app follows closely that of the standard Django app, namely the Model-Template-View. In addition we've used [Django Rest Framework](https://www.django-rest-framework.org) to implement the actual endpoint views. An admin section has been added as well. The entity diagram for the database models is:
 
 <span>
 <img src="https://github.com/rabihkodeih/leadbook/blob/master/api/screenshots/entities.png" alt="entities.png">
 </span>
 
+## Screenshots
+
+<span>
+<img src="https://github.com/rabihkodeih/leadbook/blob/master/api/screenshots/docs.png" alt="docs.png">
+<img src="https://github.com/rabihkodeih/leadbook/blob/master/api/screenshots/admin1.png" alt="admin1.png">
+<img src="https://github.com/rabihkodeih/leadbook/blob/master/api/screenshots/admin2.png" alt="admin2.png">
+</span>
+
+
 ## Testing the API
 
-### List all company profiles without pagination
+_List all company profiles without pagination_
 
     curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/
     
-### List all company profiles with pagination
+_List all company profiles with pagination_
     
     curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?page=3&length=10
     
-### Filter company profiles by name without pagination
+_Filter company profiles by name without pagination_
 
     curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?company_name=ALAM%20SUTERA%20REALTY%20Tbk
     
-### Filter company profiles by name with pagination
+_Filter company profiles by name with pagination_
 
     curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?company_name=indonesia@page=1&length=3
         
-### Fetch company profiles by ticker symbol
+_Fetch company profiles by ticker symbol_
 
     curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/company/AALI/
 
 ## Installation on local development machine
 
-After running the common installtion procedures outlined at the beginning of this document, create a database using your local mysql installtion using the following settings:
+After running the common installtion procedures outlined at the beginning of this document, create a database using your local mysql installtion using the following configs:
 
-        'NAME': leadbook
+        'DB_NAME': leadbook
         'USER': admin
         'PASSWORD': adminadmin
         'HOST': localhost
         'PORT': 3306
 
-the from the command line:
+then from the command line:
 
     cd <root_project_folder>/api
     ./manage.py makemigrations --settings=settings.base
@@ -283,9 +292,9 @@ and follow the prompts.
 
 ## Importing crawled data into the database
 
-Assuming that both json files have been produced, from the command line:
+Assuming that both json files have been produced in part one, from the command line:
 
-    ./manage.py importdata -importdata <path_to_compnay_profiles_json_file> --settings=settings.base
+    ./manage.py importdata <path_to_compnay_profiles_json_file> --settings=settings.base
 
 ## Runing the local dev server
 
@@ -302,7 +311,7 @@ To run test cases, we first need to populate the test database (only once):
     ./manage.py makemigrations --settings=settings.test
     ./manage.py migrate --settings=settings.test
     ./manage.py createsuperuser --settings=settings.test
-    ./manage.py importdata -importdata <path_to_compnay_profiles_json_file> --settings=settings.test
+    ./manage.py importdata <path_to_compnay_profiles_json_file> --settings=settings.test
 
 and then we can run the test cases:
 
