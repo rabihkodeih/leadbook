@@ -1,15 +1,25 @@
 from .base import *  # @UnusedWildImport
-
+from shutil import copyfile
 
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
+# Copy working DB to AWS lambda cache
+SOURCE_DB_PATH = os.path.join(BASE_DIR, 'db_test.sqlite3')
+
+DEST_DB_PATH = "/tmp/db_test.sqlite3"
+
+copyfile(SOURCE_DB_PATH, DEST_DB_PATH)
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db_test.sqlite3'),
+        'NAME': DEST_DB_PATH,
     }
 }
+
+
+# Application definition
 
 INSTALLED_APPS += ['storages']
 
