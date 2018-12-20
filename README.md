@@ -7,7 +7,7 @@ This is the test project for Leadbook. It has two parts:
 
 ## Common Installation
 
-Both parts are in one source control repo.
+Both parts are in one source control repository.
 Before installation, make sure that `Python3.6`, `pip3` and `virtualenv` are all installed and working fine:
 
     apt-get update
@@ -31,7 +31,7 @@ This concludes the common installtion for the crawler and the api.
 
 # 1. Crawler
 
-The crawler was custom built using [**Scrapy**](https://scrapy.org). There are two spiders, one for crawling company index data (named "company_index") and the other for crawling company profiles data (named "company_profiles").
+The crawler was custom built using [**Scrapy**](https://scrapy.org). There are two spiders, one for crawling company index data (named "company_index") and the other for crawling company profiles data (named "company_profiles"). Before starting, make sure to cd into the crawler folder form the root repo folder.
 
 ## Crawling Company Index Data
 To crawl company index, use:
@@ -159,12 +159,11 @@ A convinient script can as well be used:
     
 ## Logging and Verificiation
 
-After any scrapping operation in production, log files should be inspected for errors and warnings. If no log file is specified, logging will be directed to
-the standard output. To log to file use:
+After any crawling operation, log files should be inspected for errors and warnings. If no log file is specified, logging will be directed to the standard output. To log to file use:
 
-    scrapy crawl <spider_name> -a ... -o ... --logifile <log_path> -L <log_level>
+    scrapy crawl <spider_name> -a ... -o ... --logfile <logfile_path> -L <log_level>
     
-`log_path` and `log_level` define the file path and minimim level of messages to log. There are five levels of logging listed in decreasing order:
+`logfile_path` and `log_level` define the file path and minimum level of messages to log. There are five levels of logging listed in decreasing order:
 
     CRITICAL
     ERROR
@@ -174,17 +173,18 @@ the standard output. To log to file use:
 
 For example if a level of `WARNING` is specified only log message of that level and above will be logged (`ERROR` and `CRITICAL`).
 
-The two spiders (company_index) and (company_profiles) have a post logging verification pipelines attached to them. Every crawled item will be verified by this pipeline according to a specified set of regex validators. In case of a validation error the following log warning message will be issued:
+The two spiders (company_index) and (company_profiles) have a post logging verification pipelines attached to them. Every crawled item will be verified the pipelines according to a specified set of regex validators. In case of a validation error the following log warning message will be issued:
 
 **WARNING: BAD_FIELD: invalid item field**
-Format:
+
+_Format_ :
 
     <log-date:yyyy-mm-dd> <log-time:hh:mm:ss> [<spider_name>] WARNING: BAD_FIELD: invalid item field:\n
     item:<item json object>\n
     field:<field have invalid value>
     value:<the invalid value>
 
-Example:
+_Example_ :
     
     2018-12-20 15:30:43 [company_profiles] WARNING: BAD_FIELD: invalid item field:
     item:{'company_name': 'Kedawung Setia Industrial Tbk', 'security_code': 'KDSI', 'office_address': 'Jl.Mastrip 862  Warugunung-Karangpilang  Surabaya', 'email_address': 'corsec@kdsi-ind.com', 'country': 'Indonesia', 'phone': '(031) 7661983', 'fax': '(031) 7661981', 'npwp': '01.132.928.1-054.000', 'company_website': 'NULL', 'ipo_date': '1996-07-29', 'board': 'PENGEMBANGAN', 'sector': 'CONSUMER GOODS INDUSTRY', 'sub_sector': 'HOUSEWARE', 'registrar': 'PT. Sinartama Gunita', 'corporate_secretary': [{'name': 'R. Koorniagung T. Purwo', 'email': 'koorniagung@kedawungsetia.com', 'phone': '031 7661971'}], 'director': [{'name': 'Ali Sugiharto Wibisono', 'position': 'PRESIDEN DIREKTUR'}, {'name': 'Permadi Al Suharto', 'position': 'DIREKTUR'}, {'name': 'R. Koorniagung Trikorandono Purwo', 'position': 'DIREKTUR'}], 'subsidiary': [{'name': 'PT Kedawung Setia Corrugated Carton Box Industrial', 'type': 'Industri kotak karton gelombang dan tempat penyimpanan telur', 'total_asset': 869527200355.0, 'percentage': 100.0}, {'name': 'PT Kedawung Setia Corrugated Carton Box Industrial', 'type': 'Industri kotak karton gelombang dan tempat penyimpanan telur', 'total_asset': 891156756543.0, 'percentage': 99.999}]}
