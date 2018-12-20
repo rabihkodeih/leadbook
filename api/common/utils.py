@@ -1,3 +1,6 @@
+from urllib import parse
+
+
 def preprend_zws(plural_model_name, num_zws):
     '''
     Preprends a number of zero-width-spaces to the plural
@@ -14,7 +17,21 @@ def preprend_zws(plural_model_name, num_zws):
     return '%s%s' % (prefix, plural_model_name)
 
 
-def tryCatchEval(lambda_expression, default_value, exception_type=None):
+def query_string(request, field, type_cast=str, default_value=None):
+    '''
+    Retrieves a certain field value from the query string of
+    an api request object.
+    '''
+    query_string = parse.parse_qs(request.GET.urlencode())
+    value = query_string.get(field)
+    if value is None:
+        result = default_value
+    else:
+        result = type_cast(value[0])
+    return result
+
+
+def eval_try_catch(lambda_expression, default_value, exception_type=None):
     '''
     Evaluates a lambda expression and returns the corresponding result within a try-catch block.
     If exception_type is thrown then a default value is returned.
@@ -29,13 +46,6 @@ def tryCatchEval(lambda_expression, default_value, exception_type=None):
         result = lambda_expression()
     except exception_type:
         result = default_value
-    return result
-
-
-def get_from_query_string(qs, param, default_value=None, type_cast=None):
-    result = tryCatchEval(lambda: qs.get(param)[0], default_value)
-    if type_cast:
-        result = type_cast(result)
     return result
 
 

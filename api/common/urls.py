@@ -14,19 +14,21 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
+from django.conf.urls import url
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from django.utils.translation import ugettext_lazy as _
+
+from api import views as api_views
 
 
 urlpatterns = [
     path(r'admin/', admin.site.urls),
-    # url(r'', include((api.urls, 'api'), namespace='api')),
+    url(r'', include((api_views.urls, 'api'), namespace='api')),
 ]
 
 # this allows gunicorn (or any external wsgi server) to server static files
 urlpatterns += staticfiles_urlpatterns()
-
 
 # Change admin site title
 admin.site.site_header = _('Leadbook API Admin')
