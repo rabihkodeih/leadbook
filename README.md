@@ -198,4 +198,119 @@ On other conditions such as network errors or timeouts, standard scrapy log erro
 
 # 2. API
 
-text goes here
+The api serves data that were crawled in the first part. The api exposes a couple of endpoints:
+
+    /companies/  [GET]
+    /company/{ticker_symbol}/ [GET]
+    
+A more detailed description can be found [**here**](https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/docs/).
+An already deployed version on AWS lambda clound where the following urls are available:
+
+**1. Admin** 
+
+[admin](https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/admin/) (user: "admin", pwd: "adminadmin")
+
+**2. API Docs** 
+
+[api_docs](https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/docs/)
+
+**3. Endpoint 1
+
+[companies](https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/)
+
+**4. Endpoint 2
+
+[company](https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/company/AALI/)
+
+## Questions
+
+###1. Which database engine you choose and why?
+
+Mysql was chosen as the main db engine. Its fast, easy to install and maintain and has good community support. SQLite however was chosen for both testing and on the AWS lambda cloud for ease of installation. 
+
+###2. Which web framework you choose and why?
+
+[Django](https://www.djangoproject.com/start/overview/) was used because you simply get a whole lot of functionality out of the box with a minimum of magic. We have been able to code and deploy the application from scratch within little more than a single work day. Tha being said, when it comes to performance, Django is known for having excellent optimization options using caching and load balancing middlewares.
+
+###3. Architecture
+
+The architecture of the app follows closely that of the standard Django app. In addition we've used [Django Rest Framework](https://www.django-rest-framework.org) to implement the actual endpoint views. An admin section has been added as well. The entity diagram for the database models is:
+
+<span>
+<img src="https://github.com/rabihkodeih/leadbook/blob/master/api/screenshots/entities.png" alt="entities.png">
+</span>
+
+## Testing the API
+
+### List all company profiles without pagination
+
+    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/
+    
+### List all company profiles with pagination
+    
+    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?page=3&length=10
+    
+### Filter company profiles by name without pagination
+
+    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?company_name=ALAM%20SUTERA%20REALTY%20Tbk
+    
+### Filter company profiles by name with pagination
+
+    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?company_name=indonesia@page=1&length=3
+        
+### Fetch company profiles by ticker symbol
+
+    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/company/AALI/
+
+## Installation on local development machine
+
+After running the common installtion procedures outlined at the beginning of this document, create a database using your local mysql installtion using the following settings:
+
+        'NAME': leadbook
+        'USER': admin
+        'PASSWORD': adminadmin
+        'HOST': localhost
+        'PORT': 3306
+
+the from the command line:
+
+    cd <root_project_folder>/api
+    ./manage.py makemigrations --settings=settings.base
+    ./manage.py migrate --settings=settings.base
+    ./manage.py createsuperuser --settings=settings.base
+
+and follow the prompts. 
+
+## Importing crawled data into the database
+
+Assuming that both json files have been produced, from the command line:
+
+    ./manage.py importdata -importdata <path_to_compnay_profiles_json_file> --settings=settings.base
+
+## Runing the local dev server
+
+To run the local dev server:
+
+    ./manage.py runserver --settings=settings.base
+
+and visit `http://localhost:8000/admin/` or any of the available API endpoints.
+
+## Running the test cases
+
+To run test cases, we first need to populate the test database (only once):
+
+    ./manage.py makemigrations --settings=settings.test
+    ./manage.py migrate --settings=settings.test
+    ./manage.py createsuperuser --settings=settings.test
+    ./manage.py importdata -importdata <path_to_compnay_profiles_json_file> --settings=settings.test
+
+and then we can run the test cases:
+
+    python -m unittest tests.py 
+    
+
+
+
+
+
+
