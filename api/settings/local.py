@@ -11,5 +11,7 @@ DATABASES = {
     }
 }
 
+INSTALLED_APPS += ['django_extensions']
+
 
 # enf of file
