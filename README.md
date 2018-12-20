@@ -253,23 +253,23 @@ The architecture of the app follows closely that of the standard Django app, nam
 
 _List all company profiles without pagination_
 
-    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/
+    curl -i -X GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/
     
 _List all company profiles with pagination_
     
-    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?page=3&length=10
+    curl -i -X GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?page=3&length=10
     
 _Filter company profiles by name without pagination_
 
-    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?company_name=ALAM%20SUTERA%20REALTY%20Tbk
+    curl -i -X GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?company_name=ALAM%20SUTERA%20REALTY%20Tbk
     
 _Filter company profiles by name with pagination_
 
-    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?company_name=indonesia@page=1&length=3
+    curl -i -X GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/companies/?company_name=indonesia@page=1&length=3
         
 _Fetch company profiles by ticker symbol_
 
-    curl GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/company/AALI/
+    curl -i -X GET https://k7zpzfkps8.execute-api.us-east-2.amazonaws.com/production/company/AALI/
 
 ## Installation on local development machine
 
