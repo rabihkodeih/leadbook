@@ -58,7 +58,7 @@ The output will be saved under the path specified by the -o option which is "../
       ...
     ]
 
-A convinient script can as well be used:
+A convenient script can as well be used:
 
     bash run_company_index.sh
     
@@ -153,7 +153,7 @@ The output will be saved under the path specified by the -o option which is "../
       ...
     ]
 
-A convinient script can as well be used:
+A convenient script can as well be used:
 
     bash run_company_profiles.sh
     
@@ -173,7 +173,7 @@ After any crawling operation, log files should be inspected for errors and warni
 
 For example if a level of `WARNING` is specified only log message of that level and above will be logged (`ERROR` and `CRITICAL`).
 
-The two spiders (company_index) and (company_profiles) have a post logging verification pipelines attached to them. Every crawled item will be verified the pipelines according to a specified set of regex validators. In case of a validation error the following log warning message will be issued:
+The two spiders (company_index) and (company_profiles) have post logging verification pipelines attached to them. Every crawled item will be verified by a verification pipeline according to a given set of regex validators. In case of a validation error the following log warning message will be issued:
 
 **WARNING: BAD_FIELD: invalid item field**
 
